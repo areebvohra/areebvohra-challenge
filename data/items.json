@@ -1,0 +1,17 @@
+[
+  { "id": 1, "name": "Laptop Pro", "category": "Electronics", "price": 2499 },
+  { "id": 2, "name": "Noise Cancelling Headphones", "category": "Electronics", "price": 399 },
+  { "id": 3, "name": "Ultra‑Wide Monitor", "category": "Electronics", "price": 999 },
+  { "id": 4, "name": "Ergonomic Chair", "category": "Furniture", "price": 799 },
+  { "id": 5, "name": "Standing Desk", "category": "Furniture", "price": 1199 },
+  { "id": 6, "name": "Wireless Mouse", "category": "Electronics", "price": 79 },
+  { "id": 7, "name": "Mechanical Keyboard", "category": "Electronics", "price": 189 },
+  { "id": 8, "name": "Coffee Maker", "category": "Appliances", "price": 249 },
+  { "id": 9, "name": "Desk Lamp", "category": "Furniture", "price": 89 },
+  { "id": 10, "name": "Webcam 4K", "category": "Electronics", "price": 159 },
+  { "id": 11, "name": "USB-C Hub", "category": "Electronics", "price": 49 },
+  { "id": 12, "name": "Phone Stand", "category": "Accessories", "price": 25 },
+  { "id": 13, "name": "Cable Organizer", "category": "Accessories", "price": 19 },
+  { "id": 14, "name": "Desk Mat", "category": "Furniture", "price": 59 },
+  { "id": 15, "name": "Portable SSD 2TB", "category": "Electronics", "price": 299 }
+]
