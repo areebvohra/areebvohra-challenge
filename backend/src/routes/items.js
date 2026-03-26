@@ -29,11 +29,12 @@ router.get('/', async (req, res, next) => {
       currentPage = 1;
     }
 
-    // Apply search filter first using case-insensitive substring matching
+    // Apply search filter first using case-insensitive substring matching on name and category
     let results = data;
     if (q) {
       results = results.filter(item =>
-        item.name.toLowerCase().includes(q.toLowerCase())
+        item.name.toLowerCase().includes(q.toLowerCase()) ||
+        item.category.toLowerCase().includes(q.toLowerCase())
       );
     }
 
